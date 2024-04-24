@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top {
+    background-image: url(../img/top.png);
+    background-size: cover;
+}
